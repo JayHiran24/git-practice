@@ -8,4 +8,3 @@ Line from branch A
 
 ## About
 This repo is for Learning Git.
-This is a mistake
