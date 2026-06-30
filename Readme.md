@@ -6,3 +6,5 @@ Line from master
 
 Line from branch A
 
+## About
+This repo is for Learning Git.
